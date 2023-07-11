@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: backend-quality-dashboard
     app.kubernetes.io/part-of: mc-quality-dashboard
-  name: backend-quality-dashboardqfag
+  name: backend-quality-dashboard4hou
 spec:
   port:
     targetPort: 8081
